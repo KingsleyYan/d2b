@@ -95,12 +95,6 @@
         </dependency>
 
         <dependency>
-            <groupId>com.prolog.rdc</groupId>
-            <artifactId>upcloud-rdc-inventory-server</artifactId>
-            <version>1.0.0-SNAPSHOT</version>
-        </dependency>
-
-        <dependency>
             <groupId>org.mybatis.generator</groupId>
             <artifactId>mybatis-generator-maven-plugin</artifactId>
             <version>1.3.5</version>
